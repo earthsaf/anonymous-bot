@@ -23,9 +23,9 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254701157072']
+global.owner = ['23470155600']
 global.ownMain = '254701157072'
-global.NamaOwner = 'VINOR KING' //gausah diganti 
+global.NamaOwner = 'TRIPPS FR' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕5' //ganti aj klo mau
