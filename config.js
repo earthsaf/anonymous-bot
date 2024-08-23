@@ -23,7 +23,7 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['23470155600']
+global.owner = ['2347068387332']
 global.ownMain = '254701157072'
 global.NamaOwner = 'TRIPPS FR' //gausah diganti 
 global.sessionName = 'spidersession'
